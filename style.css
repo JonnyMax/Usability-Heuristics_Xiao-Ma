@@ -1,0 +1,46 @@
+body{
+    background: #521212;
+    color: #ffffff;
+    padding: 50px;
+    font-family: Arial;
+}
+
+h1{
+    font-size: 4em;
+    padding-top: 6px;
+    border-bottom: 3px solid #ffffff;
+    color: #58865C;
+}
+
+.Begin{
+    font-size: 2.5em;
+    padding-bottom: 3px;
+    color: rgb(33, 115, 192);
+    border-left: 2.5px solid #ffffff;
+}
+
+#Amazon{
+    font-size: 2em;
+    padding-bottom: 3px;
+    color: rgb(69, 201, 76);
+}
+
+#Ana{
+
+    font-size: 1.5em;
+    background: olivedrab;
+}
+
+.Pho{
+
+    width: 550px;
+}
+#Pho2{
+    width: 250px;
+}
+
+
+.words{
+    font-size: 1.5em;
+    background: olive;
+}
